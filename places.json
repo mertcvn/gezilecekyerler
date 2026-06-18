@@ -1,33 +1,22 @@
 [
-  {
-    "id": "kadikoy-1",
-    "name": "Kadıköy Boğa Heykeli",
-    "category": "kültür",
-    "lat": 40.9909,
-    "lng": 29.0272,
-    "district": "Kadıköy",
-    "neighborhood": "Caferağa",
-    "description": "Kadıköy'ün simgesi bronz boğa heykeli."
-  },
-  {
-    "id": "besiktas-1",
-    "name": "Dolmabahçe Sarayı",
-    "category": "tarihi",
-    "lat": 41.0391,
-    "lng": 29.0002,
-    "district": "Beşiktaş",
-    "neighborhood": "Vişnezade",
-    "description": "Osmanlı'nın son dönem sarayı."
-  },
-  {
-    "id": "fatih-1",
-    "name": "Ayasofya-i Kebir Camii",
-    "category": "tarihi",
-    "lat": 41.0086,
-    "lng": 28.9802,
-    "district": "Fatih",
-    "neighborhood": "Sultanahmet",
-    "description": "Dünyanın en önemli mimari eserlerinden."
-  }
-  // ... toplamda 39 ilçeden en az 5-10 gerçek mekan, 300+ kayıt
+  { "id":"adalar-1","name":"Büyükada Gezisi","category":"sahil","lat":40.857,"lng":29.122,"district":"Adalar","neighborhood":"Büyükada","description":"Prens Adaları'nın en büyüğü." },
+  { "id":"adalar-2","name":"Aya Yorgi Kilisesi","category":"tarihi","lat":40.853,"lng":29.125,"district":"Adalar","neighborhood":"Büyükada","description":"Tepeye kurulu tarihi kilise." },
+  { "id":"arnavutkoy-1","name":"Arnavutköy Sahil Parkı","category":"park","lat":41.183,"lng":28.74,"district":"Arnavutköy","neighborhood":"Merkez","description":"Sahil kenarında dinlenme alanı." },
+  { "id":"atasehir-1","name":"Watergarden İstanbul","category":"alışveriş","lat":40.981,"lng":29.109,"district":"Ataşehir","neighborhood":"Barbaros","description":"Açık hava alışveriş ve yaşam merkezi." },
+  { "id":"avcilar-1","name":"Avcılar Baraj Parkı","category":"park","lat":41.017,"lng":28.717,"district":"Avcılar","neighborhood":"Üniversite","description":"Doğa yürüyüşleri için ideal." },
+  { "id":"bagcilar-1","name":"Bağcılar Meydanı","category":"kültür","lat":41.033,"lng":28.857,"district":"Bağcılar","neighborhood":"Merkez","description":"İlçenin kalbi." },
+  { "id":"bahcelievler-1","name":"Bahçelievler Kültür Merkezi","category":"kültür","lat":41.005,"lng":28.862,"district":"Bahçelievler","neighborhood":"Şirinevler","description":"Etkinlik ve sergi alanı." },
+  { "id":"bakirkoy-1","name":"Ataköy Marina","category":"sahil","lat":40.978,"lng":28.865,"district":"Bakırköy","neighborhood":"Ataköy","description":"Deniz kenarında yürüyüş ve restoranlar." },
+  { "id":"basaksehir-1","name":"Başakşehir Millet Bahçesi","category":"park","lat":41.107,"lng":28.808,"district":"Başakşehir","neighborhood":"Başak","description":"Geniş yeşil alan." },
+  { "id":"bayrampasa-1","name":"Forum İstanbul","category":"alışveriş","lat":41.045,"lng":28.898,"district":"Bayrampaşa","neighborhood":"Kocatepe","description":"Büyük alışveriş merkezi." },
+  { "id":"besiktas-1","name":"Dolmabahçe Sarayı","category":"tarihi","lat":41.0391,"lng":29.0002,"district":"Beşiktaş","neighborhood":"Vişnezade","description":"Osmanlı'nın son dönem sarayı." },
+  { "id":"besiktas-2","name":"Yıldız Parkı","category":"park","lat":41.051,"lng":29.015,"district":"Beşiktaş","neighborhood":"Yıldız","description":"Tarihi ağaçlar ve köşkler." },
+  { "id":"beykoz-1","name":"Anadolu Kavağı","category":"manzara","lat":41.176,"lng":29.085,"district":"Beykoz","neighborhood":"Anadolu Kavağı","description":"Boğaz manzaralı tepe ve kale." },
+  { "id":"beylikduzu-1","name":"Beylikdüzü Yaşam Vadisi","category":"park","lat":41.001,"lng":28.639,"district":"Beylikdüzü","neighborhood":"Adnan Kahveci","description":"Uzun yürüyüş parkuru." },
+  { "id":"beyoglu-1","name":"Galata Kulesi","category":"tarihi","lat":41.0256,"lng":28.9741,"district":"Beyoğlu","neighborhood":"Galata","description":"Cenevizlilerden kalma ikonik kule." },
+  { "id":"fatih-1","name":"Ayasofya-i Kebir Camii","category":"tarihi","lat":41.0086,"lng":28.9802,"district":"Fatih","neighborhood":"Sultanahmet","description":"Dünyaca ünlü mimari harikası." },
+  { "id":"kadikoy-1","name":"Kadıköy Boğa Heykeli","category":"kültür","lat":40.9909,"lng":29.0272,"district":"Kadıköy","neighborhood":"Caferağa","description":"Kadıköy'ün simgesi." },
+  { "id":"sariyer-1","name":"Emirgan Korusu","category":"park","lat":41.107,"lng":29.053,"district":"Sarıyer","neighborhood":"Emirgan","description":"Lale bahçeleriyle ünlü." },
+  { "id":"uskudar-1","name":"Kız Kulesi","category":"tarihi","lat":41.0211,"lng":29.0041,"district":"Üsküdar","neighborhood":"Salacak","description":"Boğaz'ın ortasında tarihi kule." }
+  // ... (300+ kayıtla genişletilecek)
 ]
