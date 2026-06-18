@@ -1,0 +1,33 @@
+[
+  {
+    "id": "kadikoy-1",
+    "name": "Kadıköy Boğa Heykeli",
+    "category": "kültür",
+    "lat": 40.9909,
+    "lng": 29.0272,
+    "district": "Kadıköy",
+    "neighborhood": "Caferağa",
+    "description": "Kadıköy'ün simgesi bronz boğa heykeli."
+  },
+  {
+    "id": "besiktas-1",
+    "name": "Dolmabahçe Sarayı",
+    "category": "tarihi",
+    "lat": 41.0391,
+    "lng": 29.0002,
+    "district": "Beşiktaş",
+    "neighborhood": "Vişnezade",
+    "description": "Osmanlı'nın son dönem sarayı."
+  },
+  {
+    "id": "fatih-1",
+    "name": "Ayasofya-i Kebir Camii",
+    "category": "tarihi",
+    "lat": 41.0086,
+    "lng": 28.9802,
+    "district": "Fatih",
+    "neighborhood": "Sultanahmet",
+    "description": "Dünyanın en önemli mimari eserlerinden."
+  }
+  // ... toplamda 39 ilçeden en az 5-10 gerçek mekan, 300+ kayıt
+]

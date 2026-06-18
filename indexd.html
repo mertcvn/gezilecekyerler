@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>📍 İstanbul Yakınımdaki Yerler</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>İstanbul’da Gezilecek Yerler</h1>
+      <p>Semtinizi yazın, en yakın 10+ noktayı anında görün</p>
+    </header>
+
+    <div class="search-box">
+      <input type="text" id="locationInput" placeholder="Örn: Kadıköy, Beşiktaş, Sultanahmet..." />
+      <button id="searchBtn">Ara</button>
+    </div>
+
+    <div class="main-content">
+      <div id="map"></div>
+      <div id="placesList" class="places-list"></div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
